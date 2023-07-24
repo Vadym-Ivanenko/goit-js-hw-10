@@ -1,12 +1,10 @@
 body {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     max-width: 1200px;
     padding: 20px;
     margin: 0 auto;
 }
-
-/* // LOADER // */
 
 .loader {
     position: absolute;
@@ -45,8 +43,6 @@ body {
         transform: rotate(360deg);
     }
 }
-
-/* // LOADER // */
 
 .hidden {
     display: none;
